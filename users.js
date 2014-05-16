@@ -343,7 +343,7 @@ var User = (function () {
 			return '‽' + this.name;
 		}
 		if (this.mutedRooms[roomid]) {
-			return '!' + this.name;
+			return '💩' + this.name;
 		}
 		var room = Rooms.rooms[roomid];
 		if (room.auth) {
