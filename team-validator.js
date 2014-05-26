@@ -579,12 +579,20 @@ var Validator = (function () {
 		// the equivalent of adding "every source at or before this gen" to sources
 		var sourcesBefore = 0;
 		var noPastGen = format.requirePentagon;
+		// var for lcstabmons normal clause
+		var normalMoves = 0;
 
 		do {
 			alreadyChecked[template.speciesid] = true;
 			// Stabmons hack to avoid copying all of validateSet to formats.
 			if (format.id === 'stabmons' && template.types.indexOf(tools.getMove(move).type) > -1) return false;
 			if (format.id === 'lcstabmons' && template.types.indexOf(tools.getMove(move).type) > -1) return false;
+			if (format.id === 'lcstabmons' && tools.getMove(move).type === 'normal') {
+				if (template.learnset.indexOf(tools.getMove(move).id) === -1) {
+					normalMoves += 1
+				}
+				if (normalMoves > 1) return false;
+			}
 			// Alphabet Cup hack to do the same
 			if (alphabetCupLetter && alphabetCupLetter === Tools.getMove(move).id.slice(0, 1) && Tools.getMove(move).id !== 'sketch') return false;
 			if (template.learnset) {
