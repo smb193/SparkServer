@@ -1337,3 +1337,6 @@
 [2014-06-02T03:16:25.987Z] (lobby) antgeezy was unbanned by zeriloa.
 [2014-06-02T03:16:29.045Z] (lobby) Antgeezy was unlocked by zeriloa.
 [2014-06-02T03:18:29.335Z] (lobby) BurgerCarbink was warned by sparkbot. (Automated response: caps)
+[2014-06-02T03:41:30.003Z] (lobby) sparktrain declared also, grats lucy on mod
+[2014-06-02T03:41:36.915Z] (lobby) sparktrain declared you deserve it
+[2014-06-02T03:42:06.471Z] (lobby) sparktrain declared sparktrain
