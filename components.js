@@ -62,7 +62,7 @@ var components = exports.components = {
     
     afk: 'away',
 	away : function (target, room, user, connection) {
-		if (!this.can('lock')) return false;
+		if (!this.canBroadcast()) return false;
 
 		if (!user.isAway) {
 			var originalName = user.name;
@@ -83,7 +83,7 @@ var components = exports.components = {
 	},
 
 	back: function(target, room, user, connection) {
-		if (!this.can('lock')) return false;
+		if (!this.canBroadcast()) return false;
 
 		if (user.isAway) {
 
@@ -210,7 +210,7 @@ var components = exports.components = {
 
 
     show: function (target, room, user) {
-        if (!this.can('lock')) return;
+        if (!this.canBroadcast()) return;
         delete user.getIdentity
         user.updateIdentity();
         this.sendReply('You have revealed your staff symbol.');
@@ -218,7 +218,7 @@ var components = exports.components = {
     },
 
     hide: function (target, room, user) {
-        if (!this.can('lock')) return;
+        if (!this.canBroadcast()) return;
         user.getIdentity = function () {
             if (this.muted) return '!' + this.name;
             if (this.locked) return '?' + this.name;
