@@ -148,7 +148,7 @@ exports.customavatars = {
     'queenlucy': 'lucy.png',
     'antgeezy': 'cherrypoop.png',
     'burgercarbink': 'burger.png',
-    'stonerlinoone': 'stoner.png',
+    'stonerlinoone': 'poryfgt.png',
     'zeriloa': 'zeril.png',
     'deathxshinigami': 'dxs.png',
     'krubby': 'krubby.png',
