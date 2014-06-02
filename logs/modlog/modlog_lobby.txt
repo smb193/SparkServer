@@ -1343,3 +1343,25 @@
 [2014-06-02T03:57:42.103Z] (lobby) zeriloa declared spark is lonely gril who want sum fuk
 [2014-06-02T04:06:16.300Z] (lobby) Chromatic Art was locked from talking by queenlucy.
 [2014-06-02T04:06:22.505Z] (lobby) Chromatic Art was unlocked by Antgeezy.
+[2014-06-02T04:11:23.095Z] (lobby) testingfgt1 was promoted to Voice by sparktrain.
+[2014-06-02T04:12:22.234Z] (lobby) (testingfgt1 was demoted to regular user by sparktrain.)
+[2014-06-02T04:17:46.991Z] (lobby) (aladyyn was demoted to regular user by sparktrain.)
+[2014-06-02T04:18:51.528Z] (lobby) (calloflochie was demoted to regular user by sparktrain.)
+[2014-06-02T04:19:26.873Z] (lobby) (crushindefeat was demoted to regular user by sparktrain.)
+[2014-06-02T04:23:43.634Z] (lobby) (freddycakes was demoted to regular user by sparktrain.)
+[2014-06-02T04:23:57.462Z] (lobby) (heysup was demoted to regular user by sparktrain.)
+[2014-06-02T04:24:46.605Z] (lobby) (kingmidas was demoted to regular user by sparktrain.)
+[2014-06-02T04:25:40.205Z] (lobby) (nicholas wolfwood was demoted to regular user by zeriloa.)
+[2014-06-02T04:26:10.551Z] (lobby) (pumphead was demoted to regular user by sparktrain.)
+[2014-06-02T04:26:25.758Z] (lobby) (quotecs was demoted to regular user by sparktrain.)
+[2014-06-02T04:31:49.445Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-06-02T04:31:59.538Z] (lobby) zeriloa kicked Antgeezy from lobby
+[2014-06-02T04:32:04.125Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-02T04:32:06.842Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-02T04:32:10.146Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-02T04:32:15.476Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-02T04:35:49.957Z] (lobby) Saltgeezy was promoted to Administrator by zeriloa.
+[2014-06-02T04:43:06.245Z] (lobby) (saltgeezy was demoted to Voice by sparktrain.)
+[2014-06-02T04:43:09.796Z] (lobby) (saltgeezy was demoted to regular user by sparktrain.)
+[2014-06-02T04:54:31.103Z] (lobby) zeriloa kicked BurgerCarbink from lobby
+[2014-06-02T05:07:23.157Z] (lobby) Caledrith was banned by zeriloa. (50.186.110.159)
