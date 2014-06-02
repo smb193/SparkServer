@@ -146,7 +146,7 @@ exports.customavatars = {
     'corporallevi': 'levi.png',
     'chromaticart': 'chrom.png',
     'queenlucy': 'lucy.png',
-    'antgeezy': 'ant.gif',
+    'antgeezy': 'cherrypoop.png',
     'burgercarbink': 'burger.png',
     'stonerlinoone': 'stoner.png',
     'zeriloa': 'zeril.png',

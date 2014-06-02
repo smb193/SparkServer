@@ -1254,3 +1254,86 @@
 [2014-06-01T06:56:40.120Z] (lobby) poonslayer69:D was promoted to Voice by zeriloa.
 [2014-06-01T06:56:48.945Z] (lobby) (poonslayer69:D was demoted to regular user by zeriloa.)
 [2014-06-01T06:58:20.931Z] (lobby) b'nmj was redirected to a private room by zeriloa.
+[2014-06-01T21:08:23.650Z] (lobby) sparktrain - Away declared and then everyone realized, zeriloa was still listed as away...
+[2014-06-01T21:34:05.603Z] (lobby) sparktrain was locked from talking by sparktrain. (fgt)
+[2014-06-01T21:34:26.655Z] (lobby) queenlucy was locked from talking by Antgeezy.
+[2014-06-01T21:34:41.350Z] (lobby) sparktrain was unlocked by sparktrain.
+[2014-06-01T21:34:42.382Z] (lobby) queenlucy was banned by Antgeezy. (75.74.210.187)
+[2014-06-01T21:34:49.757Z] (lobby) queenlucy was unbanned by Antgeezy.
+[2014-06-01T21:34:54.647Z] (lobby) queenlucy was unlocked by Antgeezy.
+[2014-06-01T21:40:27.099Z] (lobby) queenlucy was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-06-01T21:40:30.907Z] (lobby) queenlucy was unmuted by sparktrain.
+[2014-06-01T21:40:39.938Z] (lobby) sparkbot was warned by Kappaten. (rude)
+[2014-06-01T21:57:54.602Z] (lobby) Chromatic Art was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-06-01T21:58:06.576Z] (lobby) sparkbot was warned by Kappaten. (be nice)
+[2014-06-01T22:43:27.113Z] (lobby) sparktrain declared ZERILOA RUNS TIMID MAX SPEED COTTONEE
+[2014-06-01T22:51:20.361Z] (lobby) Kappaten was warned by sparktrain. (not saying gg)
+[2014-06-01T22:53:07.763Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-01T23:15:18.834Z] (lobby) GlassGlaceon was warned by Champion Fizz.
+[2014-06-01T23:16:50.716Z] (lobby) Champion Fizz was warned by zeriloa. (fgt)
+[2014-06-01T23:29:27.071Z] (lobby) sparktrain was redirected to a private room by zeriloa.
+[2014-06-01T23:30:25.542Z] (lobby) (Nineage notes: WHEN YOU HEAR THE SOUND OF THUNDER)
+[2014-06-01T23:30:26.360Z] (lobby) Nineage, guest46 were unlocked by zeriloa.
+[2014-06-01T23:30:34.431Z] (lobby) (Nineage notes: DONT YOU GET TOO SCARED)
+[2014-06-01T23:30:42.449Z] (lobby) (Nineage notes: JUST GRAB YOUR THUNDER BUDDY)
+[2014-06-01T23:30:48.831Z] (lobby) (Nineage notes: AND SAY THESE MAGIC WORDS)
+[2014-06-01T23:36:02.548Z] (lobby) BurgerCarbink was redirected to a private room by sparktrain.
+[2014-06-01T23:36:08.572Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:13.159Z] (lobby) zeriloa kicked BurgerCarbink from lobby
+[2014-06-01T23:36:17.493Z] (lobby) Jonater was redirected to a private room by zeriloa.
+[2014-06-01T23:36:22.431Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:29.478Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:32.494Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:34.486Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:36.590Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:38.214Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:40.590Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:42.205Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:43.885Z] (lobby) sparktrain kicked BurgerCarbink from lobby
+[2014-06-01T23:36:44.834Z] (lobby) sparktrain was warned by zeriloa. (does ur foot hurt yet)
+[2014-06-01T23:36:54.231Z] (lobby) zeriloa kicked BurgerCarbink from lobby
+[2014-06-01T23:37:07.375Z] (lobby) Nineage kicked zeriloa from lobby
+[2014-06-01T23:37:19.755Z] (lobby) zeriloa kicked Nineage from lobby
+[2014-06-01T23:37:45.315Z] (lobby) Kappaten - Away was redirected to a private room by zeriloa.
+[2014-06-01T23:38:48.637Z] (lobby) zeriloa was redirected to a private room by zeriloa.
+[2014-06-02T00:51:21.293Z] (lobby) zeriloa was warned by sparktrain - Away. (lying)
+[2014-06-02T01:01:25.496Z] (lobby) Antgeezy was muted by sparktrain for 7 minutes. (sparktrain wonders when you'll be quiet)
+[2014-06-02T01:02:06.024Z] (lobby) Antgeezy was unmuted by zeriloa.
+[2014-06-02T01:26:55.565Z] (lobby) Guest 63 was warned by sparktrain. (i see u)
+[2014-06-02T01:27:17.939Z] (lobby) Guest 63 was redirected to a private room by sparktrain.
+[2014-06-02T01:28:39.804Z] (lobby) fgtgeezy was promoted to Administrator by sparktrain.
+[2014-06-02T01:28:54.983Z] (lobby) fgtgeezy declared geezy is a fgt
+[2014-06-02T01:29:01.186Z] (lobby) fgtgeezy declared also he has a poopdick
+[2014-06-02T01:29:16.050Z] (lobby) (fgtgeezy was demoted to Voice by zeriloa.)
+[2014-06-02T01:29:21.767Z] (lobby) (fgtgeezy was demoted to regular user by zeriloa.)
+[2014-06-02T02:31:19.359Z] (lobby) Antgeezy was banned from room lobby by zeriloa. (fgt)
+[2014-06-02T02:34:19.864Z] (lobby) Antgeezy was banned by zeriloa. (98.114.229.111)
+[2014-06-02T02:34:22.321Z] (lobby) antgeezy was unbanned by zeriloa.
+[2014-06-02T02:34:28.772Z] (lobby) Antgeezy was unlocked by zeriloa.
+[2014-06-02T02:36:21.472Z] (lobby) Antgeezy was unbanned from room lobby by zeriloa.
+[2014-06-02T02:42:08.178Z] (lobby) zeriloa was redirected to a private room by sparktrain.
+[2014-06-02T02:42:08.779Z] (lobby) DeathxShinigami was redirected to a private room by sparktrain.
+[2014-06-02T02:42:09.381Z] (lobby) annie leonhart was redirected to a private room by sparktrain.
+[2014-06-02T02:42:09.894Z] (lobby) Kappaten - Away was redirected to a private room by sparktrain.
+[2014-06-02T02:42:10.494Z] (lobby) Antgeezy was redirected to a private room by sparktrain.
+[2014-06-02T02:42:11.097Z] (lobby) Chromatic Art was redirected to a private room by sparktrain.
+[2014-06-02T02:42:21.588Z] (lobby) Amp Pharaohs was redirected to a private room by sparktrain.
+[2014-06-02T02:42:24.968Z] (lobby) brosb4ho-ohs was redirected to a private room by sparktrain.
+[2014-06-02T02:42:28.372Z] (lobby) GlassGlaceon was redirected to a private room by sparktrain.
+[2014-06-02T02:42:33.657Z] (lobby) WaterlessMelon was redirected to a private room by sparktrain.
+[2014-06-02T02:42:49.244Z] (lobby) sparktrain was redirected to a private room by sparktrain.
+[2014-06-02T02:44:56.133Z] (lobby) annie leonhart was warned by sparkbot. (Automated response: caps)
+[2014-06-02T02:46:00.820Z] (lobby) annie leonhart was muted by zeriloa for 7 minutes. (fgt)
+[2014-06-02T02:46:08.887Z] (lobby) annie leonhart was unmuted by zeriloa.
+[2014-06-02T02:47:06.767Z] (lobby) sparktrain declared hue
+[2014-06-02T03:01:38.204Z] (lobby) queenlucy was muted by Antgeezy for 7 minutes.
+[2014-06-02T03:01:48.451Z] (lobby) queenlucy was unmuted by zeriloa.
+[2014-06-02T03:01:50.861Z] (lobby) Antgeezy was muted by zeriloa for 7 minutes.
+[2014-06-02T03:02:33.782Z] (lobby) Antgeezy was unmuted by zeriloa.
+[2014-06-02T03:05:30.945Z] (lobby) Antgeezy was banned by sparktrain. (The tourney has spoken!) (98.114.229.111)
+[2014-06-02T03:07:26.133Z] (lobby) queenlucy was banned by zeriloa. (75.74.210.187)
+[2014-06-02T03:07:33.528Z] (lobby) queenlucy was unbanned by zeriloa.
+[2014-06-02T03:07:43.916Z] (lobby) queenlucy was unlocked by sparktrain.
+[2014-06-02T03:16:25.987Z] (lobby) antgeezy was unbanned by zeriloa.
+[2014-06-02T03:16:29.045Z] (lobby) Antgeezy was unlocked by zeriloa.
+[2014-06-02T03:18:29.335Z] (lobby) BurgerCarbink was warned by sparkbot. (Automated response: caps)

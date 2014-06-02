@@ -13,3 +13,11 @@
 [2014-06-01T01:25:55.524Z] (fgt) Chromatic Art was appointed Room Owner by zeriloa.
 [2014-06-01T05:31:31.384Z] (fgt) sparktrain was banned from room fgt by Chromatic Art. (fgt)
 [2014-06-01T05:31:31.384Z] (fgt) sparktrain's alts were also banned from room fgt: chrom is a fgt, sparkbot, testingfgt1
+[2014-06-01T21:52:25.651Z] (fgt) sparktrain declared fgt
+[2014-06-01T23:37:12.400Z] (fgt) Jonater was appointed Room Owner by sparktrain.
+[2014-06-01T23:37:36.363Z] (fgt) sparktrain kicked Jonater from fgt
+[2014-06-01T23:38:31.175Z] (fgt) Kappaten - Away was redirected to room Lobby by sparktrain.
+[2014-06-02T02:43:27.056Z] (fgt) zeriloa was banned from room fgt by Chromatic Art. (bitch)
+[2014-06-02T02:43:27.057Z] (fgt) zeriloa's alts were also banned from room fgt: zeriloa - Away, zeril
+[2014-06-02T02:43:52.580Z] (fgt) zeriloa was unbanned from room fgt by Chromatic Art.
+[2014-06-02T02:43:52.580Z] (fgt) zeriloa's alts were also unbanned from room fgt: zeriloa - Away, zeril
