@@ -912,7 +912,7 @@ var commands = exports.commands = {
 		targetUser.send("|nametaken||" + user.name + " has forced you to change your name. " + target);
 	},
 
-	frt: 'forcerenameto',
+	 frt: 'forcerenameto',
         forcerenameto: function(target, room, user) {
                 if (!target) return this.parse('/help forcerenameto');
                 target = this.splitTarget(target);
@@ -933,7 +933,17 @@ var commands = exports.commands = {
                         this.sendReply("User "+targetUser.name+" is no longer using that name.");
                 }
         },
-
+ 
+        imgdeclare: function(target, room, user) {
+                if (!this.can('declare', room)) return false;
+                if (!target) return this.parse('/help declare');
+ 
+                if (!this.canTalk()) return;
+ 
+                this.add('|raw|<img src="'+target+'">');
+                this.logModCommand(user.name + " imgdeclared " + target);
+        },
+        
 	modlog: function (target, room, user, connection) {
 		var lines = 0;
 		// Specific case for modlog command. Room can be indicated with a comma, lines go after the comma.
