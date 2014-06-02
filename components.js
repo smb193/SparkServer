@@ -64,7 +64,7 @@ var components = exports.components = {
 	away : function (target, room, user, connection) {
 		if (!this.canBroadcast()) return false;
 
-		if (!user.isAway) {
+		if (!user.isAway && !user.isFapping) {
 			var originalName = user.name;
 			var awayName = user.name + ' - Away';
 			//delete the user object with the new name in case it exists - if it does it can cause issues with forceRename
@@ -74,6 +74,28 @@ var components = exports.components = {
 			this.add('|raw|-- <b><font color="#4F86F7">' + originalName +'</font color></b> is now away. '+ (target ? " (" + target + ")" : ""));
 
 			user.isAway = true;
+		}
+		else {
+			return this.sendReply('You are already set as away, type /back if you are now back');
+		}
+
+		user.updateIdentity();
+	},
+    
+    fapping: 'fap',
+	fap : function (target, room, user, connection) {
+		if (!this.canBroadcast()) return false;
+
+		if (!user.isAway && !user.isFapping) {
+			var originalName = user.name;
+			var awayName = user.name + ' - fapping';
+			//delete the user object with the new name in case it exists - if it does it can cause issues with forceRename
+			delete Users.get(awayName);
+			user.forceRename(awayName, undefined, true);
+			
+			this.add('|raw|-- <b><font color="#4F86F7">' + originalName +'</font color></b> is now fapping. '+ (target ? " (" + target + ")" : ""));
+
+			user.isFapping = true;
 		}
 		else {
 			return this.sendReply('You are already set as away, type /back if you are now back');
@@ -102,6 +124,24 @@ var components = exports.components = {
 			this.add('|raw|-- <b><font color="#4F86F7">' + newName + '</font color></b> is no longer away');
 
 			user.isAway = false;
+		}
+        else if (user.isFapping) {
+            
+			var name = user.name;
+            
+			var newName = name.substr(0, name.length - 10);
+			
+			//delete the user object with the new name in case it exists - if it does it can cause issues with forceRename
+			delete Users.get(newName);
+            
+			user.forceRename(newName, undefined, true);
+			
+			//user will be authenticated
+			user.authenticated = true;
+			
+			this.add('|raw|-- <b><font color="#4F86F7">' + newName + '</font color></b> is no longer away');
+            
+			user.isFapping = false;
 		}
 		else {
 			return this.sendReply('You are not set as away');
