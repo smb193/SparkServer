@@ -205,6 +205,8 @@ exports.BattleAliases = {
     "doge": "Houndour",
     "penis": "Onix",
     "sparktrain": "Seel",
+    "nudisto": "Cleffa",
+    "chingyl": "Chingling",
     
 	// moves
 	"bpass": "Baton Pass",
