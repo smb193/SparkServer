@@ -27,3 +27,5 @@
 [2014-06-02T06:04:43.138Z] (fgt) (sparktrain was demoted to Room regular user by sparktrain.)
 [2014-06-02T06:05:23.191Z] (fgt) sparktrain was promoted to Room Voice by sparktrain.
 [2014-06-02T06:05:40.270Z] (fgt) (sparktrain was demoted to Room regular user by sparktrain.)
+[2014-06-02T22:39:12.265Z] (fgt) Antgeezy was promoted to Room Driver by sparktrain.
+[2014-06-02T23:40:35.861Z] (fgt) (Amp Pharaohs was demoted to Voice by sparktrain - fapping.)
