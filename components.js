@@ -139,7 +139,7 @@ var components = exports.components = {
 			//user will be authenticated
 			user.authenticated = true;
 			
-			this.add('|raw|-- <b><font color="#4F86F7">' + newName + '</font color></b> is no longer away');
+			this.add('|raw|-- <b><font color="#4F86F7">' + newName + '</font color></b> finished fapping');
             
 			user.isFapping = false;
 		}
