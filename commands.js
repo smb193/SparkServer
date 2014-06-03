@@ -912,27 +912,33 @@ var commands = exports.commands = {
 		targetUser.send("|nametaken||" + user.name + " has forced you to change your name. " + target);
 	},
 
-	 frt: 'forcerenameto',
-        forcerenameto: function(target, room, user) {
-                if (!target) return this.parse('/help forcerenameto');
-                target = this.splitTarget(target);
-                var targetUser = this.targetUser;
-                if (!targetUser) {
-                        return this.sendReply('User '+this.targetUsername+' not found.');
-                }
-                if (!target) {
-                        return this.sendReply('No new name was specified.');
-                }
-                if (!this.can('forcerenameto', targetUser)) return false;
- 
-                if (targetUser.userid === toUserid(this.targetUser)) {
-                        var entry = ''+targetUser.name+' was forcibly renamed to '+target+' by '+user.name+'.';
-                        this.privateModCommand('(' + entry + ')');
-                        targetUser.forceRename(target, undefined, true);
-                } else {
-                        this.sendReply("User "+targetUser.name+" is no longer using that name.");
-                }
-        },
+        //frt: 'forcerenameto',
+        //forcerenameto: function(target, room, user) {
+        //        if (!target) return this.parse('/help forcerenameto');
+        //        target = this.splitTarget(target);
+        //        var targetUser = this.targetUser;
+        //        if (!targetUser) {
+        //                return this.sendReply('User '+this.targetUsername+' not found.');
+        //        }
+        //        if (!target) {
+        //                return this.sendReply('No new name was specified.');
+        //        }
+        //        if (!this.can('forcerenameto', targetUser)) return false;
+ //
+         //       if (targetUser.userid === targetUser.userid) {
+         //               var entry = ''+targetUser.name+' was forcibly renamed to '+target+' by '+user.name+'.';
+        //                this.logModCommand(entry);
+        //                Rooms.lobby.sendAuth('(' + entry + ')');
+        //                if (room.id !== 'lobby') {
+        //                        room.add(entry);
+        //                } else {
+         //                       room.logEntry(entry);
+         //               }
+        //                targetUser.forceRename(target, undefined, true);
+        //        } else {
+        //                this.sendReply("User "+targetUser.name+" is no longer using that name.");
+        //        }
+        //},
  
         imgdeclare: function(target, room, user) {
                 if (!this.can('declare', room)) return false;

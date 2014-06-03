@@ -1386,3 +1386,22 @@
 [2014-06-02T23:00:20.253Z] (lobby) Champion Fizz was warned by sparkbot. (Automated response: caps)
 [2014-06-02T23:01:15.047Z] (lobby) Champion Fizz was muted by sparkbot for 7 minutes. (Automated response: fgt)
 [2014-06-02T23:01:43.212Z] (lobby) Champion Fizz was unmuted by sparktrain.
+[2014-06-03T00:13:03.574Z] (lobby) zeriloa was forcibly renamed to fgt by sparktrain.
+[2014-06-03T00:13:18.652Z] (lobby) zeriloa was forcibly renamed to fgt by sparktrain.
+[2014-06-03T00:13:29.069Z] (lobby) zeriloa was forcibly renamed to fgt by sparktrain.
+[2014-06-03T00:13:44.529Z] (lobby) sparktrain was forcibly renamed to dickcheese by zeriloa.
+[2014-06-03T00:14:01.121Z] (lobby) zeriloa was forcibly renamed to I LOVE LUCY by dickcheese.
+[2014-06-03T00:14:26.795Z] (lobby) zerilo was forcibly renamed to lol by dickcheese.
+[2014-06-03T00:14:45.328Z] (lobby) dickcheese was forcibly renamed to Caledrith by dickcheese.
+[2014-06-03T00:14:57.357Z] (lobby) Chromatic Art was forcibly renamed to i love cale69 by zeriloa.
+[2014-06-03T00:15:29.678Z] (lobby) Caledrith was forcibly renamed to sparktrain by Caledrith.
+[2014-06-03T00:15:59.397Z] (lobby) Antgeezy was forcibly renamed to POOPDICK by zeriloa.
+[2014-06-03T00:16:34.616Z] (lobby) DeathxShinigami was forcibly renamed to DeathxSalami by sparktrain.
+[2014-06-03T00:17:01.231Z] (lobby) POOPDICK was forcibly renamed to Aunt Geezy by sparktrain.
+[2014-06-03T00:17:51.646Z] (lobby) zeriloa was forcibly renamed to Zarel by sparktrain.
+[2014-06-03T00:18:20.228Z] (lobby) sparktrain was forcibly renamed to johntrain by Zarel.
+[2014-06-03T00:20:09.566Z] (lobby) Aunt Geezy was forcibly renamed to BIG ANT by zeriloa.
+[2014-06-03T00:21:07.639Z] (lobby) Chromatic Art was forcibly renamed to Chromatic Fart by johntrain.
+[2014-06-03T00:21:25.481Z] (lobby) johntrain declared ok, removed /frt
+[2014-06-03T00:21:32.750Z] (lobby) johntrain declared dumb shit
+[2014-06-03T00:22:31.247Z] (lobby) sparktrain imgdeclared http://i.imgur.com/Mbyu0Tg.png

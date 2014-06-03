@@ -1295,6 +1295,10 @@ var commands = exports.commands = {
 			matched = true;
 			this.sendReply("/forcerename OR /fr [username], [reason] - Forcibly change a user's name and shows them the [reason]. Requires: % @ & ~");
 		}
+        if (target === '~' || target === 'forcerenameto' || target === 'frt') {
+			matched = true;
+			this.sendReply("/forcerenameto OR /frt [username], [new name] - Forcibly change a user's name to a new one. Requires: ~");
+		}
 		if (target === '@' || target === 'roomban' || target === 'rb') {
 			matched = true;
 			this.sendReply("/roomban [username] - Bans the user from the room you are in. Requires: @ & ~");
