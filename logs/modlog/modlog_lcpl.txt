@@ -10,3 +10,6 @@
 [2014-05-19T03:21:35.993Z] (lcpl) sparktrain set modchat to +
 [2014-05-19T03:48:07.851Z] (lcpl) Nudisto was promoted to Room Voice by sparktrain.
 [2014-05-20T04:13:50.619Z] (lcpl) TheFenderStory was promoted to Room Voice by sparktrain.
+[2014-06-03T06:43:44.354Z] (lcpl) SPARKTRAIN globally declared testing shit, not going well
+[2014-06-03T06:44:09.767Z] (lcpl) SPARKTRAIN globally declared another reset, then going to bed
+[2014-06-03T06:47:20.218Z] (lcpl) sparkbot was promoted to Moderator by sparktrain.

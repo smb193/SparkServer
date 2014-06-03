@@ -1,2 +1,10 @@
 [2014-05-25T05:36:50.793Z] (lcuu) Nightmare Vampire was promoted to Moderator by sparktrain.
 [2014-05-25T05:37:24.641Z] (lcuu) Nightmare Vampire was promoted to Room Moderator by sparktrain.
+[2014-06-03T06:29:59.408Z] (lcuu) (sparkbot was demoted to Driver by sparktrain.)
+[2014-06-03T06:30:00.283Z] (lcuu) (sparkbot was demoted to Voice by sparktrain.)
+[2014-06-03T06:30:01.379Z] (lcuu) (sparkbot was demoted to regular user by sparktrain.)
+[2014-06-03T06:34:25.114Z] (lcuu) sparkbot was promoted to Moderator by SPARKTRAIN.
+[2014-06-03T06:35:00.338Z] (lcuu) (SPARKTRAIN was demoted to Voice by SPARKTRAIN.)
+[2014-06-03T06:35:09.664Z] (lcuu) (SPARKTRAIN was demoted to regular user by SPARKTRAIN.)
+[2014-06-03T06:35:15.562Z] (lcuu) SPARKTRAIN was banned from room lcuu by sparkbot. (Automated response: zero tolerance user)
+[2014-06-03T06:35:15.563Z] (lcuu) SPARKTRAIN's alts were also banned from room lcuu: sparkbot
