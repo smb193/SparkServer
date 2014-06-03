@@ -1407,3 +1407,70 @@
 [2014-06-03T00:22:31.247Z] (lobby) sparktrain imgdeclared http://i.imgur.com/Mbyu0Tg.png
 [2014-06-03T00:25:39.150Z] (lobby) (BIG ANT was forced to choose a new name by sparktrain)
 [2014-06-03T00:33:04.859Z] (lobby) sparktrain imgdeclared http://24.media.tumblr.com/c32bcd45f6685ce71e783888312f7f61/tumblr_mqegcqMtFF1rta1dso1_250.gif
+[2014-06-03T00:56:01.420Z] (lobby) Chromatic Art was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-06-03T01:00:11.893Z] (lobby) Corporal Levi was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-06-03T01:00:16.159Z] (lobby) Corporal Levi was unmuted by sparkychild.
+[2014-06-03T01:01:47.027Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (no)
+[2014-06-03T01:01:52.504Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:23.126Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:27.266Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:48.459Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:49.583Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:49.712Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:50.527Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:51.529Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:52.760Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:53.374Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:54.296Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:55.832Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:56.753Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:02:57.674Z] (lobby) sparkychild was muted by queenlucy for 7 minutes. (elaborate more upon this alleged "abuse")
+[2014-06-03T01:02:58.904Z] (lobby) sparkychild was unmuted by queenlucy.
+[2014-06-03T01:03:01.667Z] (lobby) Corporal Levi was locked from talking by sparkychild. (warn spamming me)
+[2014-06-03T01:03:17.558Z] (lobby) corporal levi was unlocked by queenlucy.
+[2014-06-03T01:04:53.796Z] (lobby) Corporal Levi was locked from talking by sparkychild. (warn spamming me in the past gens lc room)
+[2014-06-03T01:07:58.875Z] (lobby) sum1 help was banned by DeathxShinigami. (you can leave now) (67.70.89.43)
+[2014-06-03T01:08:09.402Z] (lobby) corporal levi was unlocked by sparkychild.
+[2014-06-03T01:22:45.936Z] (lobby) sum1 help was unbanned by queenlucy.
+[2014-06-03T01:30:28.281Z] (lobby) dsr95 was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-06-03T01:30:38.892Z] (lobby) dsr95 was unmuted by sparkychild.
+[2014-06-03T01:31:06.399Z] (lobby) dsr95 was muted by Chromatic Art - fapping for 7 minutes. (fgt)
+[2014-06-03T01:31:07.000Z] (lobby) dsr95 was unmuted by Chromatic Art - fapping.
+[2014-06-03T02:08:59.771Z] (lobby) zeriloa kicked sparktrain - Away from lobby
+[2014-06-03T02:09:19.030Z] (lobby) zeriloa kicked sparktrain - Away from lobby
+[2014-06-03T02:09:23.017Z] (lobby) zeriloa kicked sparktrain - Away from lobby
+[2014-06-03T02:09:36.879Z] (lobby) zeriloa was banned from room lobby by sparktrain - Away.
+[2014-06-03T02:09:36.880Z] (lobby) zeriloa's alts were also banned from room lobby: zeriloa - Away
+[2014-06-03T02:09:44.127Z] (lobby) zeriloa was unbanned from room lobby by sparktrain - Away.
+[2014-06-03T02:09:44.128Z] (lobby) zeriloa's alts were also unbanned from room lobby: zeriloa - Away
+[2014-06-03T02:09:59.268Z] (lobby) sparktrain - Away was banned from room lobby by zeriloa.
+[2014-06-03T02:09:59.268Z] (lobby) sparktrain - Away's alts were also banned from room lobby: sparkbot
+[2014-06-03T02:10:12.119Z] (lobby) sparktrain - Away was unbanned from room lobby by zeriloa.
+[2014-06-03T02:10:12.120Z] (lobby) sparktrain - Away's alts were also unbanned from room lobby: sparkbot
+[2014-06-03T02:10:18.215Z] (lobby) sparktrain - Away kicked zeriloa from lobby
+[2014-06-03T02:10:29.746Z] (lobby) zeriloa was redirected to a private room by sparktrain - Away.
+[2014-06-03T02:13:17.617Z] (lobby) (sparktrain was demoted to Leader by sparktrain.)
+[2014-06-03T02:13:26.481Z] (lobby) (sparktrain was demoted to Voice by sparktrain.)
+[2014-06-03T02:13:32.986Z] (lobby) (sparktrain was demoted to regular user by sparktrain.)
+[2014-06-03T02:13:36.460Z] (lobby) sparkychild was banned by Antgeezy. (99.224.69.101)
+[2014-06-03T02:13:39.942Z] (lobby) sparktrain was banned by Antgeezy. (97.83.98.194)
+[2014-06-03T02:13:39.943Z] (lobby) sparktrain's alts were also banned: sparkbot
+[2014-06-03T02:13:45.080Z] (lobby) sparkychild was unbanned by zeriloa.
+[2014-06-03T02:13:49.363Z] (lobby) sparkychild was unlocked by zeriloa.
+[2014-06-03T02:13:53.317Z] (lobby) sparktrain was unbanned by zeriloa.
+[2014-06-03T02:14:00.729Z] (lobby) sparktrain was banned by zeriloa. (97.83.98.194)
+[2014-06-03T02:14:00.730Z] (lobby) sparktrain's alts were also banned: sparkbot
+[2014-06-03T02:14:21.417Z] (lobby) sparktrain was promoted to Administrator by sparktrain.
+[2014-06-03T02:14:24.631Z] (lobby) Antgeezy was banned by sparktrain. (98.114.229.111)
+[2014-06-03T02:14:35.544Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-06-03T02:14:42.167Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-03T02:14:45.887Z] (lobby) Antgeezy was unlocked by zeriloa.
+[2014-06-03T02:16:33.102Z] (lobby) Antgeezy was warned by sparktrain. (banning sparky for no reason)
+[2014-06-03T02:16:42.318Z] (lobby) sparktrain was warned by zeriloa. (intense johning)
+[2014-06-03T02:16:56.549Z] (lobby) zeriloa was warned by sparktrain. (bein a fgt)
+[2014-06-03T03:59:42.843Z] (lobby) zeriloa imgdeclared http://31.media.tumblr.com/f81929ac9acb7a348ce5ce937403aa30/tumblr_mx5t03ONBo1se9ig6o1_500.gif, 500, 245
+[2014-06-03T04:00:33.291Z] (lobby) zeriloa imgdeclared http://31.media.tumblr.com/f81929ac9acb7a348ce5ce937403aa30/tumblr_mx5t03ONBo1se9ig6o1_500.gif
+[2014-06-03T04:11:07.995Z] (lobby) zeriloa declared 21:12] edfun2000: ok, 1+1=asshole
+[2014-06-03T04:36:24.071Z] (lobby) zeriloa declared poopdicks r fun
+[2014-06-03T05:30:47.534Z] (lobby) Kappaten declared [23:15:24] @Antgeezy: i just drew best dick of my life and none of you guys are around to see it
+[2014-06-03T05:31:36.816Z] (lobby) zeriloa declared [21:12] edfun2000: ok, 1+1=asshole
