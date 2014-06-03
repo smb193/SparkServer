@@ -1405,3 +1405,5 @@
 [2014-06-03T00:21:25.481Z] (lobby) johntrain declared ok, removed /frt
 [2014-06-03T00:21:32.750Z] (lobby) johntrain declared dumb shit
 [2014-06-03T00:22:31.247Z] (lobby) sparktrain imgdeclared http://i.imgur.com/Mbyu0Tg.png
+[2014-06-03T00:25:39.150Z] (lobby) (BIG ANT was forced to choose a new name by sparktrain)
+[2014-06-03T00:33:04.859Z] (lobby) sparktrain imgdeclared http://24.media.tumblr.com/c32bcd45f6685ce71e783888312f7f61/tumblr_mqegcqMtFF1rta1dso1_250.gif
