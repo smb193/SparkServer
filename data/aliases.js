@@ -28,7 +28,7 @@ exports.BattleAliases = {
     	"spritz": "Spritzee",
     	"tirt": "Tirtouga",
     	"vanha": "Carvanha",
-
+"antgeezy": "Cubone",
 	// formats
 	"randbats": "Random Battle",
 	"overused": "OU",
