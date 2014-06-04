@@ -160,8 +160,8 @@ exports.Formats = [
         mod: 'lctiershift',
         maxLevel: 5, 
 	ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
-	banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Swagger', 'Tangela', 'Sneasel', 'Yanma', 'Swirlix', 'Murkrow', 'Meditite']
-        
+	banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Swagger', 'Tangela', 'Sneasel', 'Yanma', 'Swirlix', 'Murkrow', 'Meditite'],
+    }, 
               
 	// XY Singles
 	///////////////////////////////////////////////////////////////////
