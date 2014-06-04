@@ -107,7 +107,7 @@ exports.Formats = [
                    
         maxLevel: 5,
         ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
-        banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite', 'Abra', 'Aipom', 'Archen', 'Bellsprout', 'Bunnelby', 'Carvanha', 'Chinchou', 'Clamperl', 'Cottonee', 'Cranidos', 'Croagunk', 'Diglett', 'Drilbur', 'Dwebble', 'Elekid', 'Ferroseed', 'Fletchling', 'Foongus', 'Gastly', 'Honedge', 'Houndour', 'Magnemite', 'Mienfoo', 'Misdreavus', 'Omanyte', 'Onix', 'Pawniard', 'Ponyta', 'Porygon', 'Scraggy', 'Shellder', 'Snubbull', 'Spritzee', 'Staryu', 'Taillow', 'Timburr', 'Tirtouga', 'Trubbish', 'Vullaby', 'Vulpix', 'Zigzagoon']
+        banlist: ['Dragon Rage', 'Sonic Boom', 'Swagger', 'LC Uber', 'Sneasel', 'Tangela', 'Yanma', 'Swirlix', 'Gligar', 'Murkrow', 'Meditite', 'LCOU']
     },
     {
         name: "LC Doubles",
@@ -153,6 +153,15 @@ exports.Formats = [
                    // LC Sky Battles Ubers are Scyther and Gligar
                    // man this is such a joke meta lol
     },
+    {
+        name: "LC Tier Shift",
+        section: "XY LC - Other Metas",
+        
+        mod: 'lctiershift',
+        maxLevel: 5, 
+	ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Little Cup'],
+	banlist: ['LC Uber', 'Gligar', 'Dragon Rage', 'Sonic Boom', 'Swagger', 'Tangela', 'Sneasel', 'Yanma', 'Swirlix', 'Murkrow', 'Meditite']
+        
               
 	// XY Singles
 	///////////////////////////////////////////////////////////////////
