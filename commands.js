@@ -389,6 +389,12 @@ var commands = exports.commands = {
 
 		if (!userid || !targetUser) return this.sendReply("User '" + name + "' does not exist.");
 		if (!this.can('ban', targetUser, room)) return false;
+        
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't ban sparktrain!");
+            return false;
+        }
+        
 		if (!room.bannedUsers || !room.bannedIps) {
 			return this.sendReply("Room bans are not meant to be used in room " + room.id + ".");
 		}
@@ -491,6 +497,11 @@ var commands = exports.commands = {
 			return this.sendReply("The reason is too long. It cannot exceed " + MAX_REASON_LENGTH + " characters.");
 		}
 		if (!this.can('warn', targetUser, room)) return false;
+        
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't warn sparktrain!");
+            return false;
+        }
 
 		this.addModCommand("" + targetUser.name + " was warned by " + user.name + "." + (target ? " (" + target + ")" : ""));
 		targetUser.send('|c|~|/warn ' + target);
@@ -507,6 +518,12 @@ var commands = exports.commands = {
 			return this.sendReply("The room '" + target + "' does not exist.");
 		}
 		if (!this.can('warn', targetUser, room) || !this.can('warn', targetUser, targetRoom)) return false;
+        
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't redirect sparktrain!");
+            return false;
+        }
+        
 		if (!targetUser || !targetUser.connected) {
 			return this.sendReply("User " + this.targetUsername + " not found.");
 		}
@@ -533,6 +550,12 @@ var commands = exports.commands = {
 			return this.sendReply("The reason is too long. It cannot exceed " + MAX_REASON_LENGTH + " characters.");
 		}
 		if (!this.can('mute', targetUser, room)) return false;
+        
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't mute sparktrain!");
+            return false;
+        }
+        
 		if (targetUser.mutedRooms[room.id] || targetUser.locked || !targetUser.connected) {
 			var problem = " but was already " + (!targetUser.connected ? "offline" : targetUser.locked ? "locked" : "muted");
 			if (!target) {
@@ -562,6 +585,11 @@ var commands = exports.commands = {
 		}
 		if (!this.can('mute', targetUser, room)) return false;
 
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't mute sparktrain!");
+            return false;
+        }
+        
 		if (((targetUser.mutedRooms[room.id] && (targetUser.muteDuration[room.id] || 0) >= 50 * 60 * 1000) || targetUser.locked) && !target) {
 			var problem = " but was already " + (!targetUser.connected ? "offline" : targetUser.locked ? "locked" : "muted");
 			return this.privateModCommand("(" + targetUser.name + " would be muted by " + user.name + problem + ".)");
@@ -604,6 +632,11 @@ var commands = exports.commands = {
 			return this.sendReply("The reason is too long. It cannot exceed " + MAX_REASON_LENGTH + " characters.");
 		}
 		if (!this.can('lock', targetUser)) return false;
+        
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't lock sparktrain!");
+            return false;
+        }
 
 		if ((targetUser.locked || Users.checkBanned(targetUser.latestIp)) && !target) {
 			var problem = " but was already " + (targetUser.locked ? "locked" : "banned");
@@ -647,7 +680,12 @@ var commands = exports.commands = {
 			return this.sendReply("The reason is too long. It cannot exceed " + MAX_REASON_LENGTH + " characters.");
 		}
 		if (!this.can('ban', targetUser)) return false;
-
+        
+        if (this.targetUsername = 'sparktrain' || 'sparkbot') {
+            return this.sendReply("You can't ban sparktrain!");
+            return false;
+        }
+            
 		if (Users.checkBanned(targetUser.latestIp) && !target && !targetUser.connected) {
 			var problem = " but was already banned";
 			return this.privateModCommand("(" + targetUser.name + " would be banned by " + user.name + problem + ".)");
