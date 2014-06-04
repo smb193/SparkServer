@@ -1484,3 +1484,93 @@
 [2014-06-04T00:57:50.681Z] (lobby) Amp Pharaohs was muted by Nudisto - Away for 7 minutes.
 [2014-06-04T00:57:50.681Z] (lobby) Amp Pharaohs's alts were also muted: Amp Pharaohs - Away
 [2014-06-04T00:57:57.440Z] (lobby) Amp Pharaohs was unmuted by Nudisto - Away.
+[2014-06-04T01:46:51.626Z] (lobby) zeril's goochsweat was promoted to Administrator by sparktrain.
+[2014-06-04T01:46:54.493Z] (lobby) (zeril's goochsweat was forced to choose a new name by zeriloa)
+[2014-06-04T01:47:34.761Z] (lobby) zeril's goochsweat kicked zeriloa from lobby
+[2014-06-04T01:49:32.209Z] (lobby) sparks goochsweat was promoted to Administrator by sparktrain.
+[2014-06-04T01:51:40.799Z] (lobby) sparktrain imgdeclared http://imgur.com/uxp7h0O
+[2014-06-04T01:51:50.944Z] (lobby) sparktrain imgdeclared http://i.imgur.com/uxp7h0O.png
+[2014-06-04T01:52:11.335Z] (lobby) spark's goochsweat was warned by sparkbot. (Automated response: caps)
+[2014-06-04T02:04:00.805Z] (lobby) sparktrain was warned by sparkbot. (Automated response: caps)
+[2014-06-04T02:19:20.574Z] (lobby) brosb4ho-ohs was warned by sparktrain. (no)
+[2014-06-04T02:21:08.867Z] (lobby) brosb4ho-ohs was banned by zeriloa. (71.224.230.165)
+[2014-06-04T03:00:55.712Z] (lobby) sparkychild was banned by queenlucy. (let zeri hypothetically die) (99.224.69.101)
+[2014-06-04T03:01:00.264Z] (lobby) sparkychild was unbanned by queenlucy.
+[2014-06-04T03:01:14.934Z] (lobby) sparkychild was unlocked by DeathxShinigami.
+[2014-06-04T03:39:42.862Z] (lobby) zeriloa imgdeclared https://lh4.googleusercontent.com/-8TKna-NHpeo/TmpxTS-YueI/AAAAAAAAA4g/P0mWbzU9nsk/Hyeri%252520%2525286%252529.gif
+[2014-06-04T04:38:59.011Z] (lobby) sparktrain kicked Antgeezy from lobby
+[2014-06-04T04:39:03.407Z] (lobby) sparktrain kicked zeriloa from lobby
+[2014-06-04T04:39:09.823Z] (lobby) zeriloa kicked sparkbot from lobby
+[2014-06-04T04:39:15.969Z] (lobby) zeriloa kicked sparktrain from lobby
+[2014-06-04T04:39:51.601Z] (lobby) Antgeezy was redirected to a private room by zeriloa.
+[2014-06-04T04:42:06.315Z] (lobby) sparktrain declared Antgeezy was banned from room rarelyused by boTTT. (Automated response: zero tolerance user)
+[2014-06-04T04:48:14.185Z] (lobby) Splashyship was redirected to a private room by Antgeezy.
+[2014-06-04T04:57:28.687Z] (lobby) sparktrain was muted by zeriloa for 7 minutes. (your face contained a banned phrase)
+[2014-06-04T04:57:28.688Z] (lobby) sparktrain's alts were also muted: sparkbot, sparktrain - Away, zeril's goochsweat
+[2014-06-04T04:57:52.561Z] (lobby) sparkbot was unmuted by sparktrain.
+[2014-06-04T04:58:00.943Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-06-04T04:58:17.840Z] (lobby) zeriloa declared does anyone have change for a one donger bill
+[2014-06-04T04:58:29.095Z] (lobby) sparktrain declared CONNECT BLOCKED - IP BANNED: 71.224.230.165 (brosb4hoohs)
+[2014-06-04T05:01:16.759Z] (lobby) Antgeezy was banned by sparkbot. (Automated response: possible "snen" spammer) (98.114.229.111)
+[2014-06-04T05:04:34.040Z] (lobby) antgeezy was unbanned by sparktrain.
+[2014-06-04T05:04:38.035Z] (lobby) Antgeezy was unlocked by sparktrain.
+[2014-06-04T05:07:16.818Z] (lobby) Antgeezy was banned by sparkbot. (Automated response: possible "snen" spammer) (98.114.229.111)
+[2014-06-04T05:07:48.364Z] (lobby) antgeezy was unbanned by zeriloa.
+[2014-06-04T05:07:51.171Z] (lobby) Antgeezy was unlocked by zeriloa.
+[2014-06-04T05:13:28.143Z] (lobby) zeriloa was banned by sparkbot. (Automated response: possible "snen" spammer) (207.157.229.2)
+[2014-06-04T05:13:28.143Z] (lobby) zeriloa's alts were also banned: zeriloa - Away, spark's goochsweat - Away
+[2014-06-04T05:13:43.772Z] (lobby) zeriloa was unbanned by sparktrain.
+[2014-06-04T05:13:50.471Z] (lobby) zeriloa was unlocked by sparktrain.
+[2014-06-04T05:15:12.636Z] (lobby) sparktrain kicked sparkbot from lobby
+[2014-06-04T05:17:11.119Z] (lobby) sparktrain imgdeclared http://img1.wikia.nocookie.net/__cb20071126002919/uncyclopedia/images/a/ad/Poop.gif
+[2014-06-04T05:49:15.158Z] (lobby) sparktrain was warned by sparkbot. (Automated response: caps)
+[2014-06-04T05:49:30.480Z] (lobby) sparkbot was locked from talking by zeriloa. (SNEN SNEN SNEN)
+[2014-06-04T05:49:30.481Z] (lobby) sparkbot's alts were also locked: sparktrain - Away, zeril's goochsweat, sparktrain
+[2014-06-04T05:49:39.082Z] (lobby) sparktrain, sparkbot were unlocked by zeriloa.
+[2014-06-04T05:49:59.655Z] (lobby) zeriloa was muted by sparktrain for 7 minutes. (SNEN SNEN SNEN SNEN SNEN SNEN SNEN)
+[2014-06-04T05:49:59.656Z] (lobby) zeriloa's alts were also muted: zeriloa - Away, spark's goochsweat - Away
+[2014-06-04T05:50:05.807Z] (lobby) zeriloa was unmuted by sparktrain.
+[2014-06-04T05:51:38.433Z] (lobby) sparktrain was muted by sparkbot for 7 minutes. (Automated response: caps)
+[2014-06-04T05:51:38.435Z] (lobby) sparktrain's alts were also muted: sparkbot, sparktrain - Away, zeril's goochsweat
+[2014-06-04T05:51:44.964Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-06-04T05:51:51.154Z] (lobby) sparktrain was banned by sparkbot. (Automated response: possible "snen" spammer) (97.83.98.194)
+[2014-06-04T05:51:51.155Z] (lobby) sparktrain's alts were also banned: sparkbot, sparktrain - Away, zeril's goochsweat
+[2014-06-04T05:52:05.617Z] (lobby) sparktrain was unbanned by zeriloa.
+[2014-06-04T05:52:41.566Z] (lobby) zeriloa was banned by sparkbot. (Automated response: possible "snen" spammer) (207.157.229.2)
+[2014-06-04T05:53:04.010Z] (lobby) zeriloa was unbanned by sparktrain.
+[2014-06-04T05:53:08.374Z] (lobby) zeriloa was unlocked by sparktrain.
+[2014-06-04T05:54:09.796Z] (lobby) (sparksgoochsweat was demoted to Voice by sparktrain.)
+[2014-06-04T05:54:15.790Z] (lobby) (sparksgoochsweat was demoted to regular user by sparktrain.)
+[2014-06-04T05:54:18.637Z] (lobby) (zeril's goochsweat was demoted to Voice by zeriloa.)
+[2014-06-04T05:54:25.377Z] (lobby) (zeril's goochsweat was demoted to regular user by zeriloa.)
+[2014-06-04T05:54:27.669Z] (lobby) (zeriloa was demoted to Voice by sparktrain.)
+[2014-06-04T05:54:30.512Z] (lobby) (zeriloa was demoted to regular user by sparktrain.)
+[2014-06-04T05:54:40.492Z] (lobby) zeriloa was promoted to Administrator by sparktrain.
+[2014-06-04T05:54:50.893Z] (lobby) (sparktrain was demoted to Voice by zeriloa.)
+[2014-06-04T05:54:56.793Z] (lobby) sparktrain was promoted to Administrator by sparktrain.
+[2014-06-04T05:55:19.070Z] (lobby) (sparktrain was demoted to Driver by sparktrain.)
+[2014-06-04T05:55:26.752Z] (lobby) sparktrain was promoted to Moderator by sparktrain.
+[2014-06-04T05:55:30.792Z] (lobby) (sparktrain was demoted to Voice by sparktrain.)
+[2014-06-04T05:55:36.813Z] (lobby) (sparktrain was demoted to regular user by sparktrain.)
+[2014-06-04T05:55:41.772Z] (lobby) sparktrain was promoted to Voice by sparktrain.
+[2014-06-04T05:55:44.095Z] (lobby) sparktrain was promoted to Driver by sparktrain.
+[2014-06-04T05:55:45.145Z] (lobby) sparktrain was promoted to Moderator by sparktrain.
+[2014-06-04T05:55:53.562Z] (lobby) sparktrain was promoted to Administrator by zeriloa.
+[2014-06-04T07:00:46.314Z] (lobby) sparktrain was warned by sparkbot. (Automated response: caps)
+[2014-06-04T07:00:59.650Z] (lobby) Kappaten was muted by sparkbot for 7 minutes. (Automated response: flooding)
+[2014-06-04T07:01:07.045Z] (lobby) Kappaten was unmuted by sparktrain.
+[2014-06-04T07:01:45.545Z] (lobby) Kappaten was promoted to Administrator by sparktrain.
+[2014-06-04T07:01:54.125Z] (lobby) sparktrain was banned by sparkbot. (Automated response: possible "snen" spammer) (97.83.98.194)
+[2014-06-04T07:01:54.126Z] (lobby) sparktrain's alts were also banned: sparkbot
+[2014-06-04T07:02:58.949Z] (lobby) sparktrain was unbanned by Kappaten.
+[2014-06-04T07:03:15.297Z] (lobby) sparktrain was unlocked by sparktrain.
+[2014-06-04T07:04:24.550Z] (lobby) sparkbot was unlocked by Kappaten.
+[2014-06-04T07:20:07.310Z] (lobby) sparktrain was muted by sparktrain for 60 minutes.
+[2014-06-04T07:20:07.311Z] (lobby) sparktrain's alts were also muted: sparkbot
+[2014-06-04T07:20:13.302Z] (lobby) sparktrain was unmuted by sparktrain.
+[2014-06-04T07:20:17.221Z] (lobby) sparkbot was unmuted by sparktrain.
+[2014-06-04T07:27:02.023Z] (lobby) sparktrain was banned from room lobby by sparktrain.
+[2014-06-04T07:27:02.023Z] (lobby) sparktrain's alts were also banned from room lobby: sparkbot
+[2014-06-04T07:28:05.872Z] (lobby) sparktrain was unbanned from room lobby by Kappaten.
+[2014-06-04T07:28:05.873Z] (lobby) sparktrain's alts were also unbanned from room lobby: sparkbot
+[2014-06-04T07:40:31.998Z] (lobby) sparktrain imgdeclared http://37.media.tumblr.com/tumblr_m2dyhuZBYS1rop2v0o1_1280.jpg

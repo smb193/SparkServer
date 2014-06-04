@@ -13,3 +13,4 @@
 [2014-06-03T03:55:32.555Z] (battle-randomdoublesbattle-1834) sparktrain imgdeclared http://8tracks.imgix.net/i/000/151/858/image-3436.jpg?q=65&sharp=15&vib=10&fm=jpg&fit=crop&w=521&h=521
 [2014-06-03T03:57:13.870Z] (battle-randomdoublesbattle-1834) sparktrain imgdeclared http://i3.kym-cdn.com/photos/images/newsfeed/000/674/495/6ff.gif
 [2014-06-03T03:58:10.905Z] (battle-randomdoublesbattle-1834) sparktrain imgdeclared http://24.media.tumblr.com/tumblr_lmwln7U3zo1qlyd2wo1_250.jpg
+[2014-06-04T02:02:41.990Z] (battle-ru-1861) zeril's goochsweat set modchat to false
