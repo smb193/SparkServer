@@ -1477,3 +1477,10 @@
 [2014-06-03T06:35:58.431Z] (lobby) SPARKTRAIN was promoted to Administrator by SPARKTRAIN.
 [2014-06-03T06:50:29.324Z] (lobby) sparktrain imgdeclared http://i.imgur.com/My5KJhw.gif
 [2014-06-03T07:00:58.832Z] (lobby) BurgerCarbink - Away was warned by sparkbot. (Automated response: caps)
+[2014-06-03T20:36:29.213Z] (lobby) annie leonhart was warned by zeriloa.
+[2014-06-03T22:27:30.670Z] (lobby) Champion Fizz was warned by sparkbot. (Automated response: caps)
+[2014-06-03T22:27:47.197Z] (lobby) Champion Fizz was muted by sparkbot for 7 minutes. (Automated response: caps)
+[2014-06-03T23:51:29.643Z] (lobby) zeriloa imgdeclared http://giant.gfycat.com/PossiblePowerlessArrowana.gif
+[2014-06-04T00:57:50.681Z] (lobby) Amp Pharaohs was muted by Nudisto - Away for 7 minutes.
+[2014-06-04T00:57:50.681Z] (lobby) Amp Pharaohs's alts were also muted: Amp Pharaohs - Away
+[2014-06-04T00:57:57.440Z] (lobby) Amp Pharaohs was unmuted by Nudisto - Away.
